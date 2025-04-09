@@ -1,6 +1,5 @@
 # Environment files
 .env
-.env.*
 
 # Docker data volumes (if mapped to local folders)
 mssql_data/
