@@ -1,0 +1,36 @@
+# Environment files
+.env
+.env.*
+
+# Docker data volumes (if mapped to local folders)
+mssql_data/
+mysql_data/
+postgres_data/
+mongo_data/
+
+# Local Docker Compose override file
+docker-compose.override.yml
+
+# Temporary files (PID, seeds, locks)
+*.pid
+*.seed
+*.pid.lock
+
+# Log files
+*.log
+
+# macOS system files
+.DS_Store
+
+# VSCode settings (optional, if you use VSCode)
+.vscode/
+
+# System files (Windows)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor backup files
+*~
+*.swp
+*.swo
