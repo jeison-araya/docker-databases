@@ -33,3 +33,6 @@ Desktop.ini
 *~
 *.swp
 *.swo
+
+# JetBrains IDE settings
+.idea/
